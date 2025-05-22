@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>150</id>
+    <name>מקרוגל</name>
+    <category>כלי_מטבח</category>
+    <price>650</price>
+    <count>10</count>
+  </Product>
+  <Product>
+    <id>151</id>
+    <name>מקדחה</name>
+    <category>כלי_עבודה</category>
+    <price>199</price>
+    <count>0</count>
+  </Product>
+  <Product>
+    <id>152</id>
+    <name>מחשבון כיס</name>
+    <category>אלקטרוניקה</category>
+    <price>40</price>
+    <count>0</count>
+  </Product>
+  <Product>
+    <id>153</id>
+    <name>פופיט חשמלי</name>
+    <category>אלקטרוניקה</category>
+    <price>20</price>
+    <count>0</count>
+  </Product>
+  <Product>
+    <id>154</id>
+    <name>נגן mp3</name>
+    <category>אלקטרוניקה</category>
+    <price>150</price>
+    <count>0</count>
+  </Product>
+  <Product>
+    <id>155</id>
+    <name>מחשב נייד lenovo</name>
+    <category>מיחשוב</category>
+    <price>3000</price>
+    <count>0</count>
+  </Product>
+  <Product>
+    <id>156</id>
+    <name>מצלמת קנון 185</name>
+    <category>אלקטרוניקה</category>
+    <price>480</price>
+    <count>0</count>
+  </Product>
+  <Product>
+    <id>157</id>
+    <name>תנור</name>
+    <category>כלי_מטבח</category>
+    <price>150</price>
+    <count>15</count>
+  </Product>
+  <Product>
+    <id>160</id>
+    <name>מקרר</name>
+    <category>כלי_מטבח</category>
+    <price>100</price>
+    <count>7</count>
+  </Product>
+  <Product>
+    <id>161</id>
+    <name>מקפיא</name>
+    <category>כלי_מטבח</category>
+    <price>100</price>
+    <count>21</count>
+  </Product>
+  <Product>
+    <id>162</id>
+    <name>מיחם</name>
+    <category>כלי_מטבח</category>
+    <price>120</price>
+    <count>6</count>
+  </Product>
+</ArrayOfProduct>

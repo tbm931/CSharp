@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>1848</Id>
+    <Name>bcfd</Name>
+    <Address>gr5e4e4</Address>
+    <Telephone>15478</Telephone>
+  </Customer>
+  <Customer>
+    <Id>15468</Id>
+    <Name>hgfutetg</Name>
+    <Address>fyrdrtstse</Address>
+    <Telephone>048855</Telephone>
+  </Customer>
+  <Customer>
+    <Id>6658788</Id>
+    <Name>gftydrr</Name>
+    <Address>gftdryds</Address>
+    <Telephone>0878788</Telephone>
+  </Customer>
+  <Customer>
+    <Id>123456</Id>
+    <Name>משה כהן</Name>
+    <Address>שאגת אריה 15</Address>
+    <Telephone>054877876</Telephone>
+  </Customer>
+  <Customer>
+    <Id>321654</Id>
+    <Name>משה לוי</Name>
+    <Address>שאגת אריה 15</Address>
+    <Telephone>054877876</Telephone>
+  </Customer>
+</ArrayOfCustomer>

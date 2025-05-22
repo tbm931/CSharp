@@ -1,0 +1,64 @@
+E:\my----DotNet2025_3462_1344\bin\BlTest.exe
+E:\my----DotNet2025_3462_1344\bin\BlTest.deps.json
+E:\my----DotNet2025_3462_1344\bin\BlTest.runtimeconfig.json
+E:\my----DotNet2025_3462_1344\bin\BlTest.dll
+E:\my----DotNet2025_3462_1344\bin\BlTest.pdb
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.Up2Date
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.dll
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\refint\BlTest.dll
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.pdb
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+E:\my----DotNet2025_3462_1344\BlTest\obj\Debug\ref\BlTest.dll
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\bin\BlTest.exe
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\bin\BlTest.deps.json
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\bin\BlTest.runtimeconfig.json
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\bin\BlTest.dll
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\bin\BlTest.pdb
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.Up2Date
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.dll
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\refint\BlTest.dll
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.pdb
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BlTest\obj\Debug\ref\BlTest.dll
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\bin\BlTest.exe
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\bin\BlTest.deps.json
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\bin\BlTest.runtimeconfig.json
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\bin\BlTest.dll
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\bin\BlTest.pdb
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.dll
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.pdb
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BlTest\obj\Debug\ref\BlTest.dll
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\bin\BlTest.exe
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\bin\BlTest.deps.json
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\bin\BlTest.runtimeconfig.json
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\bin\BlTest.dll
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\bin\BlTest.pdb
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.csproj.Up2Date
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.dll
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\refint\BlTest.dll
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.pdb
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BlTest\obj\Debug\ref\BlTest.dll

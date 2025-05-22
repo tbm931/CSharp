@@ -1,0 +1,120 @@
+13/03/2025 15:51:03:	in project Dal.ProductImplementation:	in function Read	:	Read Product Start--
+
+13/03/2025 15:51:03:	in project Dal.ProductImplementation:	in function Read	:!!!!!	קיים כבר כזה מוצר	!!!!!
+
+13/03/2025 15:53:59:	in project Dal.ProductImplementation:	in function Read	:	Read Product Start--
+
+13/03/2025 15:59:31:	in project Dal.ProductImplementation:	in function Read	:	Read Product Start--
+
+13/03/2025 15:59:31:	in project Dal.ProductImplementation:	in function Read	:!!!!!	קיים כבר כזה מוצר	!!!!!
+
+13/03/2025 16:00:11:	in project Dal.ProductImplementation:	in function Read	:	Read Product Start--
+
+13/03/2025 16:02:07:	in project Dal.CustomerImplementation:	in function Create	:	create customer Start--
+
+13/03/2025 16:02:07:	in project Dal.CustomerImplementation:	in function Create	:create customer --End
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:02:08:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:02:08:	in project Dal.SaleImplementation:	in function Create	:	Create Sale Start--
+
+13/03/2025 16:02:08:	in project Dal.SaleImplementation:	in function Create	:Create Sale --End
+
+13/03/2025 16:02:16:	in project Dal.ProductImplementation:	in function Read	:	Read Product Start--
+
+13/03/2025 16:02:16:	in project Dal.ProductImplementation:	in function Read	:Read Product --End
+
+13/03/2025 16:02:16:	in project Dal.SaleImplementation:	in function ReadAll	:	ReadAll Sale Start--
+
+13/03/2025 16:02:16:	in project Dal.SaleImplementation:	in function ReadAll	:Sale Product --End
+
+13/03/2025 16:02:16:	in project Dal.SaleImplementation:	in function ReadAll	:	ReadAll Sale Start--
+
+13/03/2025 16:02:16:	in project Dal.SaleImplementation:	in function ReadAll	:Sale Product --End
+
+13/03/2025 16:03:30:	in project Dal.CustomerImplementation:	in function Create	:	create customer Start--
+
+13/03/2025 16:03:30:	in project Dal.CustomerImplementation:	in function Create	:create customer --End
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:03:30:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:03:31:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:03:31:	in project Dal.ProductImplementation:	in function Create	:	Create Product Start--
+
+13/03/2025 16:03:31:	in project Dal.ProductImplementation:	in function Create	:Create Product --End
+
+13/03/2025 16:03:31:	in project Dal.SaleImplementation:	in function Create	:	Create Sale Start--
+
+13/03/2025 16:03:31:	in project Dal.SaleImplementation:	in function Create	:Create Sale --End
+
+13/03/2025 16:03:31:	in project Dal.SaleImplementation:	in function Create	:	Create Sale Start--
+
+13/03/2025 16:03:31:	in project Dal.SaleImplementation:	in function Create	:Create Sale --End
+
+13/03/2025 16:03:31:	in project Dal.SaleImplementation:	in function Create	:	Create Sale Start--
+
+13/03/2025 16:03:31:	in project Dal.SaleImplementation:	in function Create	:Create Sale --End
+
+13/03/2025 16:03:31:	in project Dal.SaleImplementation:	in function Create	:	Create Sale Start--
+
+13/03/2025 16:03:31:	in project Dal.SaleImplementation:	in function Create	:Create Sale --End
+
+13/03/2025 16:03:40:	in project Dal.ProductImplementation:	in function Read	:	Read Product Start--
+
+13/03/2025 16:03:40:	in project Dal.ProductImplementation:	in function Read	:Read Product --End
+

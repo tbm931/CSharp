@@ -1,0 +1,78 @@
+E:\my----DotNet2025_3462_1344\bin\BL.deps.json
+E:\my----DotNet2025_3462_1344\bin\BL.dll
+E:\my----DotNet2025_3462_1344\bin\BL.pdb
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfo.cs
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.Up2Date
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\BL.dll
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\refint\BL.dll
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\BL.pdb
+E:\my----DotNet2025_3462_1344\BL\obj\Debug\ref\BL.dll
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\bin\BL.deps.json
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\bin\BL.dll
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\bin\BL.pdb
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.Up2Date
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\BL.dll
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\refint\BL.dll
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\BL.pdb
+D:\תכנות_שנה ב\מתקדם c#\הפרויקט-כל הגרסאות\יז אדר הפרויקט\my----DotNet2025_3462_1344\BL\obj\Debug\ref\BL.dll
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.dll
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\refint\BL.dll
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.pdb
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\bin\BL.deps.json
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\bin\BL.dll
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\bin\BL.pdb
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\מאיר טלי\c#\my----DotNet2025_3462_1344\BL\obj\Debug\ref\BL.dll
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\bin\BL.deps.json
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\bin\BL.dll
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\bin\BL.pdb
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.Up2Date
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\BL.dll
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\refint\BL.dll
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\BL.pdb
+D:\‏‏תיקיה חדשה\my----DotNet2025_3462_1344\BL\obj\Debug\ref\BL.dll
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\bin\BL.deps.json
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\bin\BL.dll
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\bin\BL.pdb
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfo.cs
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.Up2Date
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.dll
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\refint\BL.dll
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\BL.pdb
+E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\BL\obj\Debug\ref\BL.dll
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\BL.deps.json
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\BL.dll
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\BL.pdb
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\BL.csproj.Up2Date
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\BL.dll
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\refint\BL.dll
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\BL.pdb
+C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\BL\obj\Debug\ref\BL.dll
