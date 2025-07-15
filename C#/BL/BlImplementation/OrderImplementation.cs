@@ -108,7 +108,11 @@ namespace BlImplementation
         {
             try
             {
-                productInOrder.ListProductSales = [.. _dal.Sale.ReadAll(sale => sale.ProdId == productInOrder.ProductId && (sale.IsToAll == true || isPreferred) && sale.MinCount <= productInOrder.CountInOrder && DateTime.Now >= sale.Begin && DateTime.Now <= sale.Finish)
+                productInOrder.ListProductSales = [.. _dal.Sale.ReadAll(sale => sale.ProdId == productInOrder.ProductId 
+                                                    && (sale.IsToAll == true || isPreferred) 
+                                                    && sale.MinCount <= productInOrder.CountInOrder 
+                                                    && DateTime.Now >= sale.Begin 
+                                                    && DateTime.Now <= sale.Finish)
                     .Select(s => s!.CastSaleFromDOToBO().CastFromSaleToSaleInOrder())
                     .OrderBy(s => s.Price / s.Count)];
             }

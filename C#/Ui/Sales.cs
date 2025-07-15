@@ -19,6 +19,19 @@ namespace Ui
             dproductscmb.DataSource = sales;
             //aproductscmb.DisplayMember = "Name";
             dproductscmb.ValueMember = "Id";
+            List<Sale> list = _bl.Sale.ReadAll();
+            foreach (var s in list)
+            {
+                allSaleslb.Items.Add("מזהה מבצע: " + s.Id);
+                allSaleslb.Items.Add("מזהה מוצר: " + s.ProdId);
+                allSaleslb.Items.Add("כמות מינימלית למבצע: " + s.MinCount);
+                allSaleslb.Items.Add("מחיר כולל: " + s.AllPrice);
+                allSaleslb.Items.Add("המבצע תקף מהתאריך: " + s.Begin);
+                allSaleslb.Items.Add("עד התאריך: " + s.Finish);
+                allSaleslb.Items.Add("האם רק ללקוחות המועדון: " + !s.IsToAll);
+                allSaleslb.Items.Add("________________________________");
+
+            }
         }
 
         private void Addbtn_Click(object sender, EventArgs e)

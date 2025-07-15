@@ -113,14 +113,81 @@ E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\DalFacade\obj\D
 E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\DalFacade\obj\Debug\refint\DalFacade.dll
 E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.pdb
 E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\DalFacade\obj\Debug\ref\DalFacade.dll
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\DalFacade.deps.json
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\DalFacade.dll
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\DalFacade.pdb
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.dll
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\DalFacade\obj\Debug\refint\DalFacade.dll
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.pdb
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\DalFacade\obj\Debug\ref\DalFacade.dll
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\DalFacade.deps.json
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\DalFacade.dll
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\DalFacade.pdb
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.dll
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\refint\DalFacade.dll
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.pdb
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\ref\DalFacade.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\bin\DalFacade.deps.json
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\bin\DalFacade.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\bin\DalFacade.pdb
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\DalFacade\obj\Debug\refint\DalFacade.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.pdb
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\DalFacade\obj\Debug\ref\DalFacade.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\bin\DalFacade.deps.json
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\bin\DalFacade.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\bin\DalFacade.pdb
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\DalFacade\obj\Debug\refint\DalFacade.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.pdb
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\DalFacade\obj\Debug\ref\DalFacade.dll
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\bin\DalFacade.deps.json
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\bin\DalFacade.dll
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\bin\DalFacade.pdb
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.dll
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\refint\DalFacade.dll
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.pdb
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\ref\DalFacade.dll
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\DalFacade.deps.json
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\DalFacade.dll
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\DalFacade.pdb
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.dll
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\refint\DalFacade.dll
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.pdb
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\DalFacade\obj\Debug\ref\DalFacade.dll
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\bin\DalFacade.deps.json
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\bin\DalFacade.dll
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\bin\DalFacade.pdb
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.dll
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\DalFacade\obj\Debug\DalFacade.pdb
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\user1\Documents\GitHub\c-sharp_project\bin\DalFacade.deps.json
+C:\Users\user1\Documents\GitHub\c-sharp_project\bin\DalFacade.dll
+C:\Users\user1\Documents\GitHub\c-sharp_project\bin\DalFacade.pdb
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\user1\Documents\GitHub\c-sharp_project\DalFacade\obj\Debug\ref\DalFacade.dll

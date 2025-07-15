@@ -28,5 +28,20 @@ namespace Ui
             Saleman s = new Saleman();
             s.Show();
         }
+
+        private void Home_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

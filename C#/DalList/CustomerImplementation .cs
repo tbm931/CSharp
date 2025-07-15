@@ -58,7 +58,7 @@ internal class CustomerImplementation : ICustomer
     public void Delete(int id)
     {
         Tools.LogManager.WriteToLogStartFunc(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, "Delete", "Delete customer Start--");
-        Tools.LogManager.WriteToLogEndFunc(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, "Delete", "Delete customer --End");
         DataSource.Customers.Remove(Read(id));
+        Tools.LogManager.WriteToLogEndFunc(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, "Delete", "Delete customer --End");
     }
 }

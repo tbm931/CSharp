@@ -17,6 +17,16 @@ namespace Ui
             unamecmb.DataSource = customers;
             unamecmb.DisplayMember = "Name";
             unamecmb.ValueMember = "Id";
+            List<Customer> list = _bl.Customer.ReadAll();
+            foreach (var c in list)
+            {
+                allCustomerslb.Items.Add("מספר זהות: " + c.Id);
+                allCustomerslb.Items.Add("שם הלקוח: " + c.Name);
+                allCustomerslb.Items.Add("מספר טלפון: " + c.Telephone);
+                allCustomerslb.Items.Add("כתובת: " + c.Address);
+                allCustomerslb.Items.Add("________________________________");
+
+            }
         }
 
         private void Addbtn_Click(object sender, EventArgs e)
@@ -81,5 +91,7 @@ namespace Ui
                 uphonetxt.Text = customer.Telephone;
             }
         }
+
+       
     }
 }

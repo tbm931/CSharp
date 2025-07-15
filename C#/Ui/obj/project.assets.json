@@ -45,7 +45,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "DalFacade": "1.0.0"
+          "DalFacade": "1.0.0",
+          "Tools": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DalXml.dll": {}
@@ -95,7 +96,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "BL >= 1.0.0"
+      "BL >= 1.0.0",
+      "Tools >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -105,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\כונן\\טלי מאיר\\יד\\פרויקטים\\DotNet2025_3462_1344\\Ui\\Ui.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\GitHub\\c-sharp_project\\Ui\\Ui.csproj",
       "projectName": "Ui",
-      "projectPath": "C:\\כונן\\טלי מאיר\\יד\\פרויקטים\\DotNet2025_3462_1344\\Ui\\Ui.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\GitHub\\c-sharp_project\\Ui\\Ui.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\כונן\\טלי מאיר\\יד\\פרויקטים\\DotNet2025_3462_1344\\Ui\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\GitHub\\c-sharp_project\\Ui\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -130,8 +132,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\כונן\\טלי מאיר\\יד\\פרויקטים\\DotNet2025_3462_1344\\BL\\BL.csproj": {
-              "projectPath": "C:\\כונן\\טלי מאיר\\יד\\פרויקטים\\DotNet2025_3462_1344\\BL\\BL.csproj"
+            "C:\\Users\\user1\\Documents\\GitHub\\c-sharp_project\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\GitHub\\c-sharp_project\\BL\\BL.csproj"
+            },
+            "C:\\Users\\user1\\Documents\\GitHub\\c-sharp_project\\Tools\\Tools.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\GitHub\\c-sharp_project\\Tools\\Tools.csproj"
             }
           }
         }

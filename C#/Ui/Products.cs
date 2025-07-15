@@ -10,8 +10,32 @@ namespace Ui
         {
             InitializeComponent();
             products = _bl.Product.ReadAll();
-            acategorycmb.DataSource = Enum.GetValues(typeof(Categories));
-            ucategorycmb.DataSource = Enum.GetValues(typeof(Categories));
+            List<Help> help = new List<Help>();
+            DO.categories[] categories = (DO.categories[])Enum.GetValues(typeof(Categories));
+            for (int i = 0; i < categories.Length; i++)
+                help.Add(new Help(categories[i].ToString().Replace("_", " "), categories[i]));
+            acategorycmb.DataSource = help;
+            acategorycmb.ValueMember = "category";
+            acategorycmb.DisplayMember = "name";
+            ucategorycmb.DataSource = help;
+            ucategorycmb.ValueMember = "category";
+            ucategorycmb.DisplayMember = "name";
+            List<Help> help2 = new List<Help>(help);
+            help2.Add(new Help("הכל", DO.categories.אלקטרוניקה));
+            findcmb.DataSource = help;
+            findcmb.ValueMember = "category";
+            findcmb.DisplayMember = "name";
+            List<Product> list = _bl.Product.ReadAll();
+            foreach (var p in list)
+            {
+                allProductslb.Items.Add("קוד מוצר: " + p.Id);
+                allProductslb.Items.Add("שם המוצר: " + p.Name);
+                allProductslb.Items.Add("קטגוריה: " + p.Category.ToString().Replace("_", " "));
+                allProductslb.Items.Add("מחיר: " + p.Price);
+                allProductslb.Items.Add("כמות: " + p.Count);
+                allProductslb.Items.Add("________________________________");
+
+            }
             dproductscmb.DataSource = products;
             uproductcmb.DataSource = products;
             uproductcmb.DisplayMember = "Name";
@@ -25,6 +49,9 @@ namespace Ui
             try
             {
                 _bl.Product.Delete((int)dproductscmb.SelectedValue);
+                //delete the sales of deleted product
+                while (_bl.Sale.ReadAll(s => s.ProdId == (int)dproductscmb.SelectedValue).Count > 0)
+                    _bl.Sale.Delete((int)_bl.Sale.ReadAll(s => s.ProdId == (int)dproductscmb.SelectedValue).First().Id);
                 products = _bl.Product.ReadAll();
                 dproductscmb.DataSource = products;
                 uproductcmb.DataSource = products;
@@ -81,6 +108,21 @@ namespace Ui
                 upricenud.Value = (decimal)product.Price;
                 ucntnud.Value = product.Count;
             }
+        }
+
+        private void findbtn_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+    public class Help
+    {
+        public string Name { get; set; }
+        public DO.categories Category { get; set; }
+        public Help(string name, DO.categories category)
+        {
+            this.Name = name;
+            this.Category = category;
         }
     }
 }

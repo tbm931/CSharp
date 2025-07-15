@@ -20,7 +20,7 @@ namespace Ui
 
             foreach (var categoryGroup in categories)
             {
-                TabPage? tab = new(categoryGroup.Key.ToString());
+                TabPage? tab = new(categoryGroup.Key.ToString().Replace("_"," "));
                 DataGridView? dgv = new()
                 {
                     Size = new Size(343, 200),
@@ -93,9 +93,14 @@ namespace Ui
             {
                 var s = AddProduct(row.Cells[0].Value.ToString()!, Convert.ToInt32(cntnud.Value));
                 sum.Text = s.Item2.ToString();
-                row.Cells[1].Value = s.Item3.BasePriceToProduct;
-                row.Cells[2].Value = cntnud.Value;
-                row.Cells[3].Value = (Convert.ToInt32(row.Cells[2].Value) * Convert.ToDouble(row.Cells[1].Value)).ToString();
+                if(s.Item3.CountInOrder == 0)
+                    choosedlb.Rows.Remove(row);
+                else
+                {
+                    row.Cells[1].Value = s.Item3.BasePriceToProduct;
+                    row.Cells[2].Value = cntnud.Value;
+                    row.Cells[3].Value = (Convert.ToInt32(row.Cells[2].Value) * Convert.ToDouble(row.Cells[1].Value)).ToString();
+                }
                 add.Text = "הוספה";
             }
             catch (Exception ex)
@@ -126,7 +131,13 @@ namespace Ui
                 double finalPrice = order!.FinalPrice;
                 ProductInOrder product = order.ListOfProducts!.First(p => p.ProductName == name);
                 order.ListOfProducts!.Remove(product);
-                _bl.Order.AddProductToOrder(order, product.ProductId, cnt);
+                if (cnt > 0)
+                    _bl.Order.AddProductToOrder(order, product.ProductId, cnt);
+                else
+                { 
+                    order.FinalPrice -= product.BasePriceToProduct * product.CountInOrder;
+                    product.CountInOrder = 0;
+                }
                 return (finalPrice, order.FinalPrice, product);
             }
             catch (Exception ex)
@@ -140,7 +151,10 @@ namespace Ui
             try
             {
                 Product? product = products!.FirstOrDefault(p => p!.Name == nametxt.Text);
-                _bl.Order.AddProductToOrder(order!, product!.Id, (int)cntnud.Value);
+                int value = (int)cntnud.Value;
+                if (value <= 0)
+                    return;
+                _bl.Order.AddProductToOrder(order!, product!.Id,value);
                 choosedlb.Rows.Add(nametxt.Text, order!.ListOfProducts!.Last().BasePriceToProduct, cntnud.Value, order.ListOfProducts!.Last().FinalPrice);
                 sum.Text = order.FinalPrice.ToString();
             }
@@ -211,7 +225,7 @@ namespace Ui
         private void button1_Click(object sender, EventArgs e)
         {
             _bl.Order.DoOrder(order!);
-            MessageBox.Show("ההזמנה בוצעה בהצלחה! \n הסכום לתשלום " + order.FinalPrice + ".\n תודה שבחרתם בנו!","סיום הזמנה", MessageBoxButtons.OK,MessageBoxIcon.Information,MessageBoxDefaultButton.Button1,MessageBoxOptions.RtlReading | MessageBoxOptions.RightAlign);
+            MessageBox.Show("ההזמנה בוצעה בהצלחה! \n הסכום לתשלום " + order.FinalPrice + ".\n תודה שבחרתם בנו!", "סיום הזמנה", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.RtlReading | MessageBoxOptions.RightAlign);
             this.Close();
         }
     }

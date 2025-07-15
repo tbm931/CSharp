@@ -67,26 +67,165 @@ E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\bin\Ui.pdb
 E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.Up2Date
 E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\Ui\obj\Debug\Ui.genruntimeconfig.cache
 E:\תכנות_שנה ב\מתקדם c#\my----DotNet2025_3462_1344\Ui\obj\Debug\ref\Ui.dll
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\Ui.exe
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\Ui.deps.json
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\Ui.runtimeconfig.json
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\Ui.dll
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\bin\Ui.pdb
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.AssemblyReference.cache
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Customers.resources
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Home.resources
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Manager.resources
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Products.resources
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Saleman.resources
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Sales.resources
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.GenerateResource.cache
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.GeneratedMSBuildEditorConfig.editorconfig
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfoInputs.cache
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfo.cs
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.CoreCompileInputs.cache
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.Up2Date
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.dll
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\refint\Ui.dll
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.pdb
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\Ui.genruntimeconfig.cache
-C:\כונן\טלי מאיר\יד\פרויקטים\DotNet2025_3462_1344\Ui\obj\Debug\ref\Ui.dll
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.exe
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.deps.json
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.runtimeconfig.json
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.dll
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.pdb
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.AssemblyReference.cache
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Customers.resources
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Home.resources
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Manager.resources
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Products.resources
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Saleman.resources
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Sales.resources
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.GenerateResource.cache
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfoInputs.cache
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfo.cs
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.CoreCompileInputs.cache
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.Up2Date
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.dll
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\refint\Ui.dll
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.pdb
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.genruntimeconfig.cache
+Z:\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\ref\Ui.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\bin\Ui.exe
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\bin\Ui.deps.json
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\bin\Ui.runtimeconfig.json
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\bin\Ui.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\bin\Ui.pdb
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.AssemblyReference.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Customers.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Home.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Manager.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Products.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Saleman.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Sales.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.GenerateResource.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfoInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfo.cs
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.CoreCompileInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.Up2Date
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\refint\Ui.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.pdb
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.genruntimeconfig.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344 טלי\DotNet2025_3462_1344\Ui\obj\Debug\ref\Ui.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\bin\Ui.exe
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\bin\Ui.deps.json
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\bin\Ui.runtimeconfig.json
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\bin\Ui.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\bin\Ui.pdb
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.AssemblyReference.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Customers.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Home.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Manager.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Products.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Saleman.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Sales.resources
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.GenerateResource.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfoInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfo.cs
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.CoreCompileInputs.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.Up2Date
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\refint\Ui.dll
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.pdb
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.genruntimeconfig.cache
+E:\תכנות_שנה ב\מתקדם c#\DotNet2025_3462_1344\Ui\obj\Debug\ref\Ui.dll
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\bin\Ui.exe
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\bin\Ui.deps.json
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\bin\Ui.runtimeconfig.json
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\bin\Ui.dll
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\bin\Ui.pdb
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.AssemblyReference.cache
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Customers.resources
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Home.resources
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Manager.resources
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Products.resources
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Saleman.resources
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Sales.resources
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.GenerateResource.cache
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfoInputs.cache
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfo.cs
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.CoreCompileInputs.cache
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.Up2Date
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.dll
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\refint\Ui.dll
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.pdb
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.genruntimeconfig.cache
+Z:\B\כהן רבקה\c#\DotNet2025_3462_1344\Ui\obj\Debug\ref\Ui.dll
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.exe
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.deps.json
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.runtimeconfig.json
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.dll
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\bin\Ui.pdb
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.AssemblyReference.cache
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Customers.resources
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Home.resources
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Manager.resources
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Products.resources
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Saleman.resources
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Sales.resources
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.GenerateResource.cache
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfoInputs.cache
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfo.cs
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.CoreCompileInputs.cache
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.Up2Date
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.dll
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\refint\Ui.dll
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.pdb
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\Ui.genruntimeconfig.cache
+Z:\Handasa\B\מאיר טלי\c#\DotNet2025_3462_1344\Ui\obj\Debug\ref\Ui.dll
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\bin\Ui.exe
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\bin\Ui.deps.json
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\bin\Ui.runtimeconfig.json
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\bin\Ui.dll
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\bin\Ui.pdb
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.AssemblyReference.cache
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Customers.resources
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Home.resources
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Manager.resources
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Products.resources
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Saleman.resources
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.Sales.resources
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.GenerateResource.cache
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfoInputs.cache
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.AssemblyInfo.cs
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.CoreCompileInputs.cache
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.csproj.Up2Date
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.dll
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\refint\Ui.dll
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.pdb
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\Ui.genruntimeconfig.cache
+D:\תכנות_שנה ב\מתקדם c#\סופי\DotNet2025_3462_1344\Ui\obj\Debug\ref\Ui.dll
+C:\Users\user1\Documents\GitHub\c-sharp_project\bin\Ui.exe
+C:\Users\user1\Documents\GitHub\c-sharp_project\bin\Ui.deps.json
+C:\Users\user1\Documents\GitHub\c-sharp_project\bin\Ui.runtimeconfig.json
+C:\Users\user1\Documents\GitHub\c-sharp_project\bin\Ui.dll
+C:\Users\user1\Documents\GitHub\c-sharp_project\bin\Ui.pdb
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.Customers.resources
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.Home.resources
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.Manager.resources
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.Products.resources
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.Saleman.resources
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.Sales.resources
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.csproj.GenerateResource.cache
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.AssemblyInfo.cs
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.sourcelink.json
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.csproj.Up2Date
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.dll
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\refint\Ui.dll
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.pdb
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\Ui.genruntimeconfig.cache
+C:\Users\user1\Documents\GitHub\c-sharp_project\Ui\obj\Debug\ref\Ui.dll

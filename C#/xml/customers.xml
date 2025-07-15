@@ -2,20 +2,20 @@
 <ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Customer>
     <Id>1848</Id>
-    <Name>bcfd</Name>
-    <Address>gr5e4e4</Address>
+    <Name>שרה</Name>
+    <Address>לוין</Address>
     <Telephone>15478</Telephone>
   </Customer>
   <Customer>
     <Id>15468</Id>
-    <Name>hgfutetg</Name>
-    <Address>fyrdrtstse</Address>
+    <Name>רות</Name>
+    <Address>בן דוד</Address>
     <Telephone>048855</Telephone>
   </Customer>
   <Customer>
     <Id>6658788</Id>
-    <Name>gftydrr</Name>
-    <Address>gftdryds</Address>
+    <Name>אליהו</Name>
+    <Address>סגל</Address>
     <Telephone>0878788</Telephone>
   </Customer>
   <Customer>

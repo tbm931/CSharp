@@ -34,5 +34,10 @@ namespace Ui
             Sales sales = new Sales();
             sales.Show();
         }
+
+        private void Manager_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
